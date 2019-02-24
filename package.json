@@ -1,9 +1,12 @@
 {
   "name": "ember-slots",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "0.1.0",
+  "description": "Named slots for Ember.js apps",
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "slots",
+    "template",
+    "named blocks"
   ],
   "repository": "",
   "license": "MIT",
