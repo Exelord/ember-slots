@@ -3,6 +3,13 @@ ember-slots
 
 [Short description of the addon.]
 
+
+Compatibility
+------------------------------------------------------------------------------
+
+* Ember.js v2.18 or above
+* Ember CLI v2.13 or above
+
 Installation
 ------------------------------------------------------------------------------
 
